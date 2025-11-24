@@ -1,10 +1,11 @@
 version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
 options: "c2694eb183ed447bb9c7ca08287b889f017f4d80bbdf24f99943ca7d3b4af318"
-build_start_time: [1763996071, 297558000]
-build_end_time: [1763996073, 396627000]
+build_start_time: [1765066552, 15781000]
+build_end_time: [1765066567, 683041000]
 inputs:
   ? "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/recording-analyzer.build/DerivedSources/GeneratedAssetSymbols.swift"
-  : !dirty [1763996067, 370033335]
-  "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/recording-analyzer/recording-analyzer/ContentView.swift": !dirty [1763995680, 375916153]
+  : [1765031002, 304836124]
+  "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/recording-analyzer/recording-analyzer/ContentView.swift": [1765066548, 364079905]
+  "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/recording-analyzer/recording-analyzer/RecordingAttributes.swift": [1764013464, 155652317]
   ? "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/recording-analyzer/recording-analyzer/recording_analyzerApp.swift"
-  : !dirty [1763571842, 624757581]
+  : [1763571842, 624757581]

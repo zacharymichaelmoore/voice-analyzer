@@ -10,8 +10,6 @@
 		5F1587162ED3A8A40042E8A5 /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F1587152ED3A8A40042E8A5 /* WidgetKit.framework */; };
 		5F1587182ED3A8A40042E8A5 /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F1587172ED3A8A40042E8A5 /* SwiftUI.framework */; };
 		5F1587292ED3A8A60042E8A5 /* RecordingAnalyzerWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 5F1587132ED3A8A40042E8A5 /* RecordingAnalyzerWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
-		5F1587302ED3A8D30042E8A5 /* RecordingAttributes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F15872F2ED3A8D30042E8A5 /* RecordingAttributes.swift */; };
-		5F1587312ED3A8D30042E8A5 /* RecordingAttributes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F15872F2ED3A8D30042E8A5 /* RecordingAttributes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,12 +55,20 @@
 		5F1587132ED3A8A40042E8A5 /* RecordingAnalyzerWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = RecordingAnalyzerWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F1587152ED3A8A40042E8A5 /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
 		5F1587172ED3A8A40042E8A5 /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
-		5F15872F2ED3A8D30042E8A5 /* RecordingAttributes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordingAttributes.swift; sourceTree = "<group>"; };
+		5F679AEC2ED77C04007B52B5 /* recording-analyzer.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "recording-analyzer.xcodeproj"; sourceTree = "<group>"; };
+		5F74137F2F2046060041D714 /* recording-analyzer.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "recording-analyzer.xcodeproj"; sourceTree = "<group>"; };
+		5F7630A52F2BA5B800ADAA13 /* recording-analyzer.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "recording-analyzer.xcodeproj"; sourceTree = "<group>"; };
 		5F7D4E592ECE23EE00ABF8DE /* recording-analyzer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "recording-analyzer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F7D4E662ECE23F000ABF8DE /* recording-analyzerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "recording-analyzerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F7D4E702ECE23F000ABF8DE /* recording-analyzerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "recording-analyzerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F7D4EC32ECE300400ABF8DE /* recording-analyzer.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "recording-analyzer.xcodeproj"; sourceTree = "<group>"; };
 		5F7D4EF22ED270A100ABF8DE /* recording-analyzer.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "recording-analyzer.xcodeproj"; sourceTree = "<group>"; };
+		5F91DD762F21379B00B3C914 /* recording-analyzer.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "recording-analyzer.xcodeproj"; sourceTree = "<group>"; };
+		5F9672072EF3567300C68274 /* recording-analyzer.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "recording-analyzer.xcodeproj"; sourceTree = "<group>"; };
+		5FA20B922EF593E50083EEF9 /* recording-analyzer.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "recording-analyzer.xcodeproj"; sourceTree = "<group>"; };
+		5FA380572EDBD16700161017 /* recording-analyzer.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "recording-analyzer.xcodeproj"; sourceTree = "<group>"; };
+		5FCB40162F1D7630001C4F3E /* recording-analyzer.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "recording-analyzer.xcodeproj"; sourceTree = "<group>"; };
+		5FFFF2352F460933009CE899 /* recording-analyzer.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "recording-analyzer.xcodeproj"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
@@ -89,6 +95,14 @@
 			);
 			target = 5F7D4E582ECE23EE00ABF8DE /* recording-analyzer */;
 		};
+		5F158BDE2ED4C9960042E8A5 /* Exceptions for "recording-analyzer" folder in "RecordingAnalyzerWidgetExtension" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				"recording-analyzer/ContentView.swift",
+				"recording-analyzer/RecordingAttributes.swift",
+			);
+			target = 5F1587122ED3A8A40042E8A5 /* RecordingAnalyzerWidgetExtension */;
+		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -105,6 +119,7 @@
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
 				5F1587322ED3ADB80042E8A5 /* Exceptions for "recording-analyzer" folder in "recording-analyzer" target */,
+				5F158BDE2ED4C9960042E8A5 /* Exceptions for "recording-analyzer" folder in "RecordingAnalyzerWidgetExtension" target */,
 			);
 			path = "recording-analyzer";
 			sourceTree = "<group>";
@@ -161,10 +176,30 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		5F679AED2ED77C04007B52B5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5F7413802F2046060041D714 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5F7630A62F2BA5B800ADAA13 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		5F7D4E502ECE23ED00ABF8DE = {
 			isa = PBXGroup;
 			children = (
-				5F15872F2ED3A8D30042E8A5 /* RecordingAttributes.swift */,
 				5F7D4E5B2ECE23EE00ABF8DE /* recording-analyzer */,
 				5F1587192ED3A8A40042E8A5 /* RecordingAnalyzerWidget */,
 				5F1587142ED3A8A40042E8A5 /* Frameworks */,
@@ -191,6 +226,48 @@
 			sourceTree = "<group>";
 		};
 		5F7D4EF32ED270A100ABF8DE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5F91DD772F21379B00B3C914 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5F9672082EF3567300C68274 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5FA20B932EF593E50083EEF9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5FA380582EDBD16700161017 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5FCB40172F1D7630001C4F3E /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5FFFF2362F460933009CE899 /* Products */ = {
 			isa = PBXGroup;
 			children = (
 			);
@@ -326,12 +403,48 @@
 			projectDirPath = "";
 			projectReferences = (
 				{
-					ProductGroup = 5F7D4EF32ED270A100ABF8DE /* Products */;
-					ProjectRef = 5F7D4EF22ED270A100ABF8DE /* recording-analyzer.xcodeproj */;
+					ProductGroup = 5FA380582EDBD16700161017 /* Products */;
+					ProjectRef = 5FA380572EDBD16700161017 /* recording-analyzer.xcodeproj */;
+				},
+				{
+					ProductGroup = 5F7413802F2046060041D714 /* Products */;
+					ProjectRef = 5F74137F2F2046060041D714 /* recording-analyzer.xcodeproj */;
 				},
 				{
 					ProductGroup = 5F7D4EC42ECE300400ABF8DE /* Products */;
 					ProjectRef = 5F7D4EC32ECE300400ABF8DE /* recording-analyzer.xcodeproj */;
+				},
+				{
+					ProductGroup = 5FCB40172F1D7630001C4F3E /* Products */;
+					ProjectRef = 5FCB40162F1D7630001C4F3E /* recording-analyzer.xcodeproj */;
+				},
+				{
+					ProductGroup = 5F679AED2ED77C04007B52B5 /* Products */;
+					ProjectRef = 5F679AEC2ED77C04007B52B5 /* recording-analyzer.xcodeproj */;
+				},
+				{
+					ProductGroup = 5F7D4EF32ED270A100ABF8DE /* Products */;
+					ProjectRef = 5F7D4EF22ED270A100ABF8DE /* recording-analyzer.xcodeproj */;
+				},
+				{
+					ProductGroup = 5F7630A62F2BA5B800ADAA13 /* Products */;
+					ProjectRef = 5F7630A52F2BA5B800ADAA13 /* recording-analyzer.xcodeproj */;
+				},
+				{
+					ProductGroup = 5FFFF2362F460933009CE899 /* Products */;
+					ProjectRef = 5FFFF2352F460933009CE899 /* recording-analyzer.xcodeproj */;
+				},
+				{
+					ProductGroup = 5F9672082EF3567300C68274 /* Products */;
+					ProjectRef = 5F9672072EF3567300C68274 /* recording-analyzer.xcodeproj */;
+				},
+				{
+					ProductGroup = 5F91DD772F21379B00B3C914 /* Products */;
+					ProjectRef = 5F91DD762F21379B00B3C914 /* recording-analyzer.xcodeproj */;
+				},
+				{
+					ProductGroup = 5FA20B932EF593E50083EEF9 /* Products */;
+					ProjectRef = 5FA20B922EF593E50083EEF9 /* recording-analyzer.xcodeproj */;
 				},
 				{
 					ProductGroup = 5F1584C22ED270E30042E8A5 /* Products */;
@@ -384,7 +497,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5F1587302ED3A8D30042E8A5 /* RecordingAttributes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -392,7 +504,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				5F1587312ED3A8D30042E8A5 /* RecordingAttributes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -621,6 +732,7 @@
 				INFOPLIST_FILE = "recording-analyzer/Info.plist";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "\"We need your microphone to record voice memos.\"";
 				INFOPLIST_KEY_NSSupportsLiveActivities = YES;
+				INFOPLIST_KEY_NSSupportsLiveActivitiesFrequentUpdates = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -656,6 +768,7 @@
 				INFOPLIST_FILE = "recording-analyzer/Info.plist";
 				INFOPLIST_KEY_NSMicrophoneUsageDescription = "\"We need your microphone to record voice memos.\"";
 				INFOPLIST_KEY_NSSupportsLiveActivities = YES;
+				INFOPLIST_KEY_NSSupportsLiveActivitiesFrequentUpdates = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;

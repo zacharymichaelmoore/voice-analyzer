@@ -17,6 +17,11 @@
     "llvm-bc" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/recording-analyzer.build/Objects-normal/arm64/ContentView.bc",
     "object" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/recording-analyzer.build/Objects-normal/arm64/ContentView.o"
   },
+  "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/recording-analyzer/recording-analyzer/RecordingAttributes.swift" : {
+    "index-unit-output-path" : "/recording-analyzer.build/Release-iphoneos/recording-analyzer.build/Objects-normal/arm64/RecordingAttributes.o",
+    "llvm-bc" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/recording-analyzer.build/Objects-normal/arm64/RecordingAttributes.bc",
+    "object" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/recording-analyzer.build/Objects-normal/arm64/RecordingAttributes.o"
+  },
   "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/recording-analyzer/recording-analyzer/recording_analyzerApp.swift" : {
     "index-unit-output-path" : "/recording-analyzer.build/Release-iphoneos/recording-analyzer.build/Objects-normal/arm64/recording_analyzerApp.o",
     "llvm-bc" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/recording-analyzer.build/Objects-normal/arm64/recording_analyzerApp.bc",

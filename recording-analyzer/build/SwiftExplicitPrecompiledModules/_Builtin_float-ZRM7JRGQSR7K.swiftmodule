@@ -1,0 +1,16 @@
+---
+path:            '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/26.2/_Builtin_float.swiftmodule/arm64e-apple-ios-macabi.swiftmodule'
+dependencies:
+  - mtime:           1764871465000000000
+    path:            '/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/macosx/prebuilt-modules/26.2/_Builtin_float.swiftmodule/arm64e-apple-ios-macabi.swiftmodule'
+    size:            23384
+  - mtime:           1762654662000000000
+    path:            'System/iOSSupport/usr/lib/swift/Swift.swiftmodule/arm64e-apple-ios-macabi.swiftinterface'
+    size:            2258301
+    sdk_relative:    true
+  - mtime:           1762654697000000000
+    path:            'System/iOSSupport/usr/lib/swift/_Builtin_float.swiftmodule/arm64e-apple-ios-macabi.swiftinterface'
+    size:            4316
+    sdk_relative:    true
+version:         1
+...
