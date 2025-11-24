@@ -1,0 +1,78 @@
+{
+  "" : {
+    "diagnostics" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetExtension-master.dia",
+    "emit-module-dependencies" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetExtension-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetExtension-master-emit-module.dia",
+    "swift-dependencies" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetExtension-master.swiftdeps"
+  },
+  "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/RecordingAnalyzerWidget/AppIntent.swift" : {
+    "const-values" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/AppIntent.swiftconstvalues",
+    "dependencies" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/AppIntent.d",
+    "diagnostics" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/AppIntent.dia",
+    "index-unit-output-path" : "/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/AppIntent.o",
+    "llvm-bc" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/AppIntent.bc",
+    "object" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/AppIntent.o",
+    "swift-dependencies" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/AppIntent.swiftdeps",
+    "swiftmodule" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/AppIntent~partial.swiftmodule"
+  },
+  "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/RecordingAnalyzerWidget/RecordingAnalyzerWidget.swift" : {
+    "const-values" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidget.swiftconstvalues",
+    "dependencies" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidget.d",
+    "diagnostics" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidget.dia",
+    "index-unit-output-path" : "/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidget.o",
+    "llvm-bc" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidget.bc",
+    "object" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidget.o",
+    "swift-dependencies" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidget.swiftdeps",
+    "swiftmodule" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidget~partial.swiftmodule"
+  },
+  "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/RecordingAnalyzerWidget/RecordingAnalyzerWidgetBundle.swift" : {
+    "const-values" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetBundle.swiftconstvalues",
+    "dependencies" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetBundle.d",
+    "diagnostics" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetBundle.dia",
+    "index-unit-output-path" : "/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetBundle.o",
+    "llvm-bc" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetBundle.bc",
+    "object" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetBundle.o",
+    "swift-dependencies" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetBundle.swiftdeps",
+    "swiftmodule" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetBundle~partial.swiftmodule"
+  },
+  "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/RecordingAnalyzerWidget/RecordingAnalyzerWidgetControl.swift" : {
+    "const-values" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetControl.swiftconstvalues",
+    "dependencies" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetControl.d",
+    "diagnostics" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetControl.dia",
+    "index-unit-output-path" : "/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetControl.o",
+    "llvm-bc" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetControl.bc",
+    "object" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetControl.o",
+    "swift-dependencies" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetControl.swiftdeps",
+    "swiftmodule" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetControl~partial.swiftmodule"
+  },
+  "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/RecordingAnalyzerWidget/RecordingAnalyzerWidgetLiveActivity.swift" : {
+    "const-values" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetLiveActivity.swiftconstvalues",
+    "dependencies" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetLiveActivity.d",
+    "diagnostics" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetLiveActivity.dia",
+    "index-unit-output-path" : "/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetLiveActivity.o",
+    "llvm-bc" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetLiveActivity.bc",
+    "object" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetLiveActivity.o",
+    "swift-dependencies" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetLiveActivity.swiftdeps",
+    "swiftmodule" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetLiveActivity~partial.swiftmodule"
+  },
+  "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/RecordingAttributes.swift" : {
+    "const-values" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAttributes.swiftconstvalues",
+    "dependencies" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAttributes.d",
+    "diagnostics" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAttributes.dia",
+    "index-unit-output-path" : "/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAttributes.o",
+    "llvm-bc" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAttributes.bc",
+    "object" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAttributes.o",
+    "swift-dependencies" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAttributes.swiftdeps",
+    "swiftmodule" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAttributes~partial.swiftmodule"
+  },
+  "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Debug-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/GeneratedAssetSymbols~partial.swiftmodule"
+  }
+}

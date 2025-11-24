@@ -6,7 +6,22 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		5F1587162ED3A8A40042E8A5 /* WidgetKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F1587152ED3A8A40042E8A5 /* WidgetKit.framework */; };
+		5F1587182ED3A8A40042E8A5 /* SwiftUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5F1587172ED3A8A40042E8A5 /* SwiftUI.framework */; };
+		5F1587292ED3A8A60042E8A5 /* RecordingAnalyzerWidgetExtension.appex in Embed Foundation Extensions */ = {isa = PBXBuildFile; fileRef = 5F1587132ED3A8A40042E8A5 /* RecordingAnalyzerWidgetExtension.appex */; settings = {ATTRIBUTES = (RemoveHeadersOnCopy, ); }; };
+		5F1587302ED3A8D30042E8A5 /* RecordingAttributes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F15872F2ED3A8D30042E8A5 /* RecordingAttributes.swift */; };
+		5F1587312ED3A8D30042E8A5 /* RecordingAttributes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F15872F2ED3A8D30042E8A5 /* RecordingAttributes.swift */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
+		5F1587272ED3A8A60042E8A5 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 5F7D4E512ECE23ED00ABF8DE /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 5F1587122ED3A8A40042E8A5;
+			remoteInfo = RecordingAnalyzerWidgetExtension;
+		};
 		5F7D4E672ECE23F000ABF8DE /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 5F7D4E512ECE23ED00ABF8DE /* Project object */;
@@ -23,31 +38,89 @@
 		};
 /* End PBXContainerItemProxy section */
 
+/* Begin PBXCopyFilesBuildPhase section */
+		5F15872E2ED3A8A60042E8A5 /* Embed Foundation Extensions */ = {
+			isa = PBXCopyFilesBuildPhase;
+			buildActionMask = 2147483647;
+			dstPath = "";
+			dstSubfolderSpec = 13;
+			files = (
+				5F1587292ED3A8A60042E8A5 /* RecordingAnalyzerWidgetExtension.appex in Embed Foundation Extensions */,
+			);
+			name = "Embed Foundation Extensions";
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXCopyFilesBuildPhase section */
+
 /* Begin PBXFileReference section */
+		5F1584C12ED270E30042E8A5 /* recording-analyzer.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "recording-analyzer.xcodeproj"; sourceTree = "<group>"; };
+		5F1587132ED3A8A40042E8A5 /* RecordingAnalyzerWidgetExtension.appex */ = {isa = PBXFileReference; explicitFileType = "wrapper.app-extension"; includeInIndex = 0; path = RecordingAnalyzerWidgetExtension.appex; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F1587152ED3A8A40042E8A5 /* WidgetKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = WidgetKit.framework; path = System/Library/Frameworks/WidgetKit.framework; sourceTree = SDKROOT; };
+		5F1587172ED3A8A40042E8A5 /* SwiftUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = SwiftUI.framework; path = System/Library/Frameworks/SwiftUI.framework; sourceTree = SDKROOT; };
+		5F15872F2ED3A8D30042E8A5 /* RecordingAttributes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RecordingAttributes.swift; sourceTree = "<group>"; };
 		5F7D4E592ECE23EE00ABF8DE /* recording-analyzer.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "recording-analyzer.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F7D4E662ECE23F000ABF8DE /* recording-analyzerTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "recording-analyzerTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F7D4E702ECE23F000ABF8DE /* recording-analyzerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "recording-analyzerUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		5F7D4EC32ECE300400ABF8DE /* recording-analyzer.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "recording-analyzer.xcodeproj"; sourceTree = "<group>"; };
+		5F7D4EF22ED270A100ABF8DE /* recording-analyzer.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; path = "recording-analyzer.xcodeproj"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		5F15872A2ED3A8A60042E8A5 /* Exceptions for "RecordingAnalyzerWidget" folder in "RecordingAnalyzerWidgetExtension" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 5F1587122ED3A8A40042E8A5 /* RecordingAnalyzerWidgetExtension */;
+		};
+		5F1587322ED3ADB80042E8A5 /* Exceptions for "recording-analyzer" folder in "recording-analyzer" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+				"recording-analyzer/Assets.xcassets",
+				"recording-analyzer/Info.plist",
+			);
+			target = 5F7D4E582ECE23EE00ABF8DE /* recording-analyzer */;
+		};
+		5F1587342ED3B6170042E8A5 /* Exceptions for "RecordingAnalyzerWidget" folder in "recording-analyzer" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Assets.xcassets,
+			);
+			target = 5F7D4E582ECE23EE00ABF8DE /* recording-analyzer */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
+		5F1587192ED3A8A40042E8A5 /* RecordingAnalyzerWidget */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				5F1587342ED3B6170042E8A5 /* Exceptions for "RecordingAnalyzerWidget" folder in "recording-analyzer" target */,
+				5F15872A2ED3A8A60042E8A5 /* Exceptions for "RecordingAnalyzerWidget" folder in "RecordingAnalyzerWidgetExtension" target */,
+			);
+			path = RecordingAnalyzerWidget;
+			sourceTree = "<group>";
+		};
 		5F7D4E5B2ECE23EE00ABF8DE /* recording-analyzer */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				5F1587322ED3ADB80042E8A5 /* Exceptions for "recording-analyzer" folder in "recording-analyzer" target */,
+			);
 			path = "recording-analyzer";
-			sourceTree = "<group>";
-		};
-		5F7D4E692ECE23F000ABF8DE /* recording-analyzerTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "recording-analyzerTests";
-			sourceTree = "<group>";
-		};
-		5F7D4E732ECE23F000ABF8DE /* recording-analyzerUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "recording-analyzerUITests";
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
+		5F1587102ED3A8A40042E8A5 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5F1587182ED3A8A40042E8A5 /* SwiftUI.framework in Frameworks */,
+				5F1587162ED3A8A40042E8A5 /* WidgetKit.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		5F7D4E562ECE23EE00ABF8DE /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
@@ -72,12 +145,29 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5F1584C22ED270E30042E8A5 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5F1587142ED3A8A40042E8A5 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5F1587152ED3A8A40042E8A5 /* WidgetKit.framework */,
+				5F1587172ED3A8A40042E8A5 /* SwiftUI.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
 		5F7D4E502ECE23ED00ABF8DE = {
 			isa = PBXGroup;
 			children = (
+				5F15872F2ED3A8D30042E8A5 /* RecordingAttributes.swift */,
 				5F7D4E5B2ECE23EE00ABF8DE /* recording-analyzer */,
-				5F7D4E692ECE23F000ABF8DE /* recording-analyzerTests */,
-				5F7D4E732ECE23F000ABF8DE /* recording-analyzerUITests */,
+				5F1587192ED3A8A40042E8A5 /* RecordingAnalyzerWidget */,
+				5F1587142ED3A8A40042E8A5 /* Frameworks */,
 				5F7D4E5A2ECE23EE00ABF8DE /* Products */,
 			);
 			sourceTree = "<group>";
@@ -88,6 +178,21 @@
 				5F7D4E592ECE23EE00ABF8DE /* recording-analyzer.app */,
 				5F7D4E662ECE23F000ABF8DE /* recording-analyzerTests.xctest */,
 				5F7D4E702ECE23F000ABF8DE /* recording-analyzerUITests.xctest */,
+				5F1587132ED3A8A40042E8A5 /* RecordingAnalyzerWidgetExtension.appex */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5F7D4EC42ECE300400ABF8DE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5F7D4EF32ED270A100ABF8DE /* Products */ = {
+			isa = PBXGroup;
+			children = (
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -95,6 +200,28 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
+		5F1587122ED3A8A40042E8A5 /* RecordingAnalyzerWidgetExtension */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5F15872B2ED3A8A60042E8A5 /* Build configuration list for PBXNativeTarget "RecordingAnalyzerWidgetExtension" */;
+			buildPhases = (
+				5F15870F2ED3A8A40042E8A5 /* Sources */,
+				5F1587102ED3A8A40042E8A5 /* Frameworks */,
+				5F1587112ED3A8A40042E8A5 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			fileSystemSynchronizedGroups = (
+				5F1587192ED3A8A40042E8A5 /* RecordingAnalyzerWidget */,
+			);
+			name = RecordingAnalyzerWidgetExtension;
+			packageProductDependencies = (
+			);
+			productName = RecordingAnalyzerWidgetExtension;
+			productReference = 5F1587132ED3A8A40042E8A5 /* RecordingAnalyzerWidgetExtension.appex */;
+			productType = "com.apple.product-type.app-extension";
+		};
 		5F7D4E582ECE23EE00ABF8DE /* recording-analyzer */ = {
 			isa = PBXNativeTarget;
 			buildConfigurationList = 5F7D4E7A2ECE23F000ABF8DE /* Build configuration list for PBXNativeTarget "recording-analyzer" */;
@@ -102,10 +229,12 @@
 				5F7D4E552ECE23EE00ABF8DE /* Sources */,
 				5F7D4E562ECE23EE00ABF8DE /* Frameworks */,
 				5F7D4E572ECE23EE00ABF8DE /* Resources */,
+				5F15872E2ED3A8A60042E8A5 /* Embed Foundation Extensions */,
 			);
 			buildRules = (
 			);
 			dependencies = (
+				5F1587282ED3A8A60042E8A5 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
 				5F7D4E5B2ECE23EE00ABF8DE /* recording-analyzer */,
@@ -130,9 +259,6 @@
 			dependencies = (
 				5F7D4E682ECE23F000ABF8DE /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				5F7D4E692ECE23F000ABF8DE /* recording-analyzerTests */,
-			);
 			name = "recording-analyzerTests";
 			packageProductDependencies = (
 			);
@@ -153,9 +279,6 @@
 			dependencies = (
 				5F7D4E722ECE23F000ABF8DE /* PBXTargetDependency */,
 			);
-			fileSystemSynchronizedGroups = (
-				5F7D4E732ECE23F000ABF8DE /* recording-analyzerUITests */,
-			);
 			name = "recording-analyzerUITests";
 			packageProductDependencies = (
 			);
@@ -173,6 +296,9 @@
 				LastSwiftUpdateCheck = 1640;
 				LastUpgradeCheck = 1640;
 				TargetAttributes = {
+					5F1587122ED3A8A40042E8A5 = {
+						CreatedOnToolsVersion = 16.4;
+					};
 					5F7D4E582ECE23EE00ABF8DE = {
 						CreatedOnToolsVersion = 16.4;
 					};
@@ -198,16 +324,38 @@
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 5F7D4E5A2ECE23EE00ABF8DE /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 5F7D4EF32ED270A100ABF8DE /* Products */;
+					ProjectRef = 5F7D4EF22ED270A100ABF8DE /* recording-analyzer.xcodeproj */;
+				},
+				{
+					ProductGroup = 5F7D4EC42ECE300400ABF8DE /* Products */;
+					ProjectRef = 5F7D4EC32ECE300400ABF8DE /* recording-analyzer.xcodeproj */;
+				},
+				{
+					ProductGroup = 5F1584C22ED270E30042E8A5 /* Products */;
+					ProjectRef = 5F1584C12ED270E30042E8A5 /* recording-analyzer.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				5F7D4E582ECE23EE00ABF8DE /* recording-analyzer */,
 				5F7D4E652ECE23F000ABF8DE /* recording-analyzerTests */,
 				5F7D4E6F2ECE23F000ABF8DE /* recording-analyzerUITests */,
+				5F1587122ED3A8A40042E8A5 /* RecordingAnalyzerWidgetExtension */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
+		5F1587112ED3A8A40042E8A5 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		5F7D4E572ECE23EE00ABF8DE /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -232,10 +380,19 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
+		5F15870F2ED3A8A40042E8A5 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5F1587302ED3A8D30042E8A5 /* RecordingAttributes.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
 		5F7D4E552ECE23EE00ABF8DE /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5F1587312ED3A8D30042E8A5 /* RecordingAttributes.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -256,6 +413,11 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
+		5F1587282ED3A8A60042E8A5 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 5F1587122ED3A8A40042E8A5 /* RecordingAnalyzerWidgetExtension */;
+			targetProxy = 5F1587272ED3A8A60042E8A5 /* PBXContainerItemProxy */;
+		};
 		5F7D4E682ECE23F000ABF8DE /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = 5F7D4E582ECE23EE00ABF8DE /* recording-analyzer */;
@@ -269,6 +431,60 @@
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
+		5F15872C2ED3A8A60042E8A5 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DVS92MSR3M;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = RecordingAnalyzerWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = RecordingAnalyzerWidget;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.app.recording-analyzer.RecordingAnalyzerWidget";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		5F15872D2ED3A8A60042E8A5 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				ASSETCATALOG_COMPILER_WIDGET_BACKGROUND_COLOR_NAME = WidgetBackground;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = DVS92MSR3M;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = RecordingAnalyzerWidget/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = RecordingAnalyzerWidget;
+				INFOPLIST_KEY_NSHumanReadableCopyright = "";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@executable_path/../../Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.app.recording-analyzer.RecordingAnalyzerWidget";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
 		5F7D4E782ECE23F000ABF8DE /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
@@ -322,6 +538,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
@@ -380,6 +597,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.5;
 				LOCALIZATION_PREFERS_STRING_CATALOGS = YES;
 				MTL_ENABLE_DEBUG_INFO = NO;
@@ -400,6 +618,9 @@
 				DEVELOPMENT_TEAM = DVS92MSR3M;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "recording-analyzer/Info.plist";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "\"We need your microphone to record voice memos.\"";
+				INFOPLIST_KEY_NSSupportsLiveActivities = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -412,6 +633,10 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.app.recording-analyzer";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -428,6 +653,9 @@
 				DEVELOPMENT_TEAM = DVS92MSR3M;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_FILE = "recording-analyzer/Info.plist";
+				INFOPLIST_KEY_NSMicrophoneUsageDescription = "\"We need your microphone to record voice memos.\"";
+				INFOPLIST_KEY_NSSupportsLiveActivities = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
@@ -440,6 +668,10 @@
 				MARKETING_VERSION = 1.0;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.app.recording-analyzer";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
+				SUPPORTS_MACCATALYST = NO;
+				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = YES;
+				SUPPORTS_XR_DESIGNED_FOR_IPHONE_IPAD = NO;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -521,6 +753,15 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
+		5F15872B2ED3A8A60042E8A5 /* Build configuration list for PBXNativeTarget "RecordingAnalyzerWidgetExtension" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5F15872C2ED3A8A60042E8A5 /* Debug */,
+				5F15872D2ED3A8A60042E8A5 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
 		5F7D4E542ECE23EE00ABF8DE /* Build configuration list for PBXProject "recording-analyzer" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (

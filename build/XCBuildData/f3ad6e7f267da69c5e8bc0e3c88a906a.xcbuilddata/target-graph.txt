@@ -1,0 +1,2 @@
+Target dependency graph (1 target)
+Target 'recording-analyzer' in project 'recording-analyzer' (no dependencies)

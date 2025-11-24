@@ -1,0 +1,45 @@
+{
+  "" : {
+    "const-values" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetExtension-master.swiftconstvalues",
+    "dependencies" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetExtension-master.d",
+    "diagnostics" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetExtension-master.dia",
+    "emit-module-dependencies" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetExtension-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetExtension-master-emit-module.dia",
+    "swift-dependencies" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetExtension-master.swiftdeps"
+  },
+  "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/RecordingAnalyzerWidget/AppIntent.swift" : {
+    "index-unit-output-path" : "/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/AppIntent.o",
+    "llvm-bc" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/AppIntent.bc",
+    "object" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/AppIntent.o"
+  },
+  "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/RecordingAnalyzerWidget/RecordingAnalyzerWidget.swift" : {
+    "index-unit-output-path" : "/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidget.o",
+    "llvm-bc" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidget.bc",
+    "object" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidget.o"
+  },
+  "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/RecordingAnalyzerWidget/RecordingAnalyzerWidgetBundle.swift" : {
+    "index-unit-output-path" : "/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetBundle.o",
+    "llvm-bc" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetBundle.bc",
+    "object" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetBundle.o"
+  },
+  "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/RecordingAnalyzerWidget/RecordingAnalyzerWidgetControl.swift" : {
+    "index-unit-output-path" : "/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetControl.o",
+    "llvm-bc" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetControl.bc",
+    "object" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetControl.o"
+  },
+  "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/RecordingAnalyzerWidget/RecordingAnalyzerWidgetLiveActivity.swift" : {
+    "index-unit-output-path" : "/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetLiveActivity.o",
+    "llvm-bc" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetLiveActivity.bc",
+    "object" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAnalyzerWidgetLiveActivity.o"
+  },
+  "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/RecordingAttributes.swift" : {
+    "index-unit-output-path" : "/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAttributes.o",
+    "llvm-bc" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAttributes.bc",
+    "object" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/RecordingAttributes.o"
+  },
+  "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "index-unit-output-path" : "/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/build/recording-analyzer.build/Release-iphoneos/RecordingAnalyzerWidgetExtension.build/Objects-normal/arm64/GeneratedAssetSymbols.o"
+  }
+}

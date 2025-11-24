@@ -1,0 +1,10 @@
+version: "Apple Swift version 6.1.2 (swiftlang-6.1.2.1.2 clang-1700.0.13.5)"
+options: "6ab07911319adb0af5e8094fada24dd9c38ccda82d477875bcba2c4b0ade5699"
+build_start_time: [1763996643, 942168000]
+build_end_time: [1763996655, 440463000]
+inputs:
+  ? "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/recording-analyzer/build/recording-analyzer.build/Release-maccatalyst/recording-analyzer.build/DerivedSources/GeneratedAssetSymbols.swift"
+  : [1763996643, 908150744]
+  "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/recording-analyzer/recording-analyzer/ContentView.swift": [1763996642, 896623718]
+  ? "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/recording-analyzer/recording-analyzer/recording_analyzerApp.swift"
+  : [1763571842, 624757581]

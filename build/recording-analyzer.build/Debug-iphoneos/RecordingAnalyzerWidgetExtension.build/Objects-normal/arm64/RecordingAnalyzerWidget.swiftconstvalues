@@ -1,0 +1,61 @@
+[
+  {
+    "typeName": "RecordingAnalyzerWidgetExtension.ConfigurationAppIntent",
+    "mangledTypeName": "32RecordingAnalyzerWidgetExtension22ConfigurationAppIntentV",
+    "kind": "struct",
+    "file": "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/RecordingAnalyzerWidget/AppIntent.swift",
+    "line": 11,
+    "conformances": [
+      "AppIntents.WidgetConfigurationIntent",
+      "AppIntents.AppIntent",
+      "AppIntents.PersistentlyIdentifiable",
+      "AppIntents._SupportsAppDependencies",
+      "Swift.Sendable"
+    ],
+    "allConformances": [
+      {
+        "protocolName": "AppIntents.WidgetConfigurationIntent",
+        "conformanceDefiningModule": "RecordingAnalyzerWidgetExtension"
+      },
+      {
+        "protocolName": "AppIntents.AppIntent",
+        "conformanceDefiningModule": "RecordingAnalyzerWidgetExtension"
+      },
+      {
+        "protocolName": "AppIntents.PersistentlyIdentifiable",
+        "conformanceDefiningModule": "RecordingAnalyzerWidgetExtension"
+      },
+      {
+        "protocolName": "AppIntents._SupportsAppDependencies",
+        "conformanceDefiningModule": "RecordingAnalyzerWidgetExtension"
+      },
+      {
+        "protocolName": "Swift.Sendable",
+        "conformanceDefiningModule": "RecordingAnalyzerWidgetExtension"
+      }
+    ],
+    "associatedTypeAliases": [],
+    "properties": [
+      {
+        "label": "smiley",
+        "type": "RecordingAnalyzerWidgetExtension.ConfigurationAppIntent",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "true",
+        "isComputed": "true",
+        "file": "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/RecordingAnalyzerWidget/RecordingAnalyzerWidget.swift",
+        "line": 70,
+        "valueKind": "Runtime"
+      },
+      {
+        "label": "starEyes",
+        "type": "RecordingAnalyzerWidgetExtension.ConfigurationAppIntent",
+        "mangledTypeName": "n/a - deprecated",
+        "isStatic": "true",
+        "isComputed": "true",
+        "file": "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/RecordingAnalyzerWidget/RecordingAnalyzerWidget.swift",
+        "line": 76,
+        "valueKind": "Runtime"
+      }
+    ]
+  }
+]

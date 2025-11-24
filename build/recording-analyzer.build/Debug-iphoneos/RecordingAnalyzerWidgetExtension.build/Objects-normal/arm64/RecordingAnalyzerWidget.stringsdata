@@ -1,0 +1,24 @@
+{
+  "source": "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/RecordingAnalyzerWidget/RecordingAnalyzerWidget.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Time:",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 49
+        }
+      },
+      {
+        "comment": "",
+        "key": "Favorite Emoji:",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 52
+        }
+      }
+    ]
+  },
+  "version": 1
+}

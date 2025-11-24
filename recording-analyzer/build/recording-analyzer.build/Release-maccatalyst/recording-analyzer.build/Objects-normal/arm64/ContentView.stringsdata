@@ -1,0 +1,640 @@
+{
+  "source": "/Users/zacharymoore/Documents/voice-analyzer/recording-analyzer/recording-analyzer/recording-analyzer/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Recordings",
+        "location": {
+          "startingColumn": 88,
+          "startingLine": 1607
+        }
+      },
+      {
+        "comment": "",
+        "key": "Analysis",
+        "location": {
+          "startingColumn": 73,
+          "startingLine": 1608
+        }
+      },
+      {
+        "comment": "",
+        "key": "Settings",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1646
+        }
+      },
+      {
+        "comment": "",
+        "key": "Storage Location",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1676
+        }
+      },
+      {
+        "comment": "",
+        "key": "Audio Source",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1703
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select which microphone to use. If the selected device disconnects, the app will revert to the iPhone microphone.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1704
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 1649
+        }
+      },
+      {
+        "comment": "",
+        "key": "Change Location...",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 1697
+        }
+      },
+      {
+        "comment": "",
+        "key": "External Drive",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1686
+        }
+      },
+      {
+        "comment": "",
+        "key": "Loading audio devices...",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 1707
+        }
+      },
+      {
+        "comment": "",
+        "key": "AI KEY",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1744
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter API Key",
+        "location": {
+          "startingColumn": 29,
+          "startingLine": 1745
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear Key",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 1748
+        }
+      },
+      {
+        "comment": "",
+        "key": "Voice Memos",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 1847
+        }
+      },
+      {
+        "comment": "",
+        "key": "My Folders",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 1829
+        }
+      },
+      {
+        "comment": "",
+        "key": "All Recordings",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1820
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 1822
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 1838
+        }
+      },
+      {
+        "comment": "",
+        "key": "Select a Folder",
+        "location": {
+          "startingColumn": 41,
+          "startingLine": 1957
+        }
+      },
+      {
+        "comment": "",
+        "key": "All Folders",
+        "location": {
+          "startingColumn": 61,
+          "startingLine": 1957
+        }
+      },
+      {
+        "comment": "",
+        "key": "New Folder",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 1973
+        }
+      },
+      {
+        "comment": "",
+        "key": "My Folders",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 1924
+        }
+      },
+      {
+        "comment": "",
+        "key": "All Recordings",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 1908
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 1910
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recently Deleted",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1917
+        }
+      },
+      {
+        "comment": "",
+        "key": "0",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 1919
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 1936
+        }
+      },
+      {
+        "comment": "",
+        "key": "Name",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 1974
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 1975
+        }
+      },
+      {
+        "comment": "",
+        "key": "Save",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 1980
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enter a name for this folder.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 1989
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rename Folder",
+        "location": {
+          "startingColumn": 16,
+          "startingLine": 2089
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rename",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 2081
+        }
+      },
+      {
+        "comment": "",
+        "key": "Name",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 2090
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 2091
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 20,
+          "startingLine": 2092
+        }
+      },
+      {
+        "comment": "",
+        "key": "Recording not found",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 2501
+        }
+      },
+      {
+        "comment": "",
+        "key": "Retry",
+        "location": {
+          "startingColumn": 42,
+          "startingLine": 2275
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enhancing...",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 2294
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enhance",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 2297
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enhance Transcription",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2755
+        }
+      },
+      {
+        "comment": "",
+        "key": "Describe this recording to improve speaker identification and accuracy.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 2697
+        }
+      },
+      {
+        "comment": "",
+        "key": "E.g., 'This is a conversation between Zach and Mike discussing YouTube strategy...'",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2704
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clear",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 2736
+        }
+      },
+      {
+        "comment": "",
+        "key": "Listening...",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 2726
+        }
+      },
+      {
+        "comment": "",
+        "key": "Process Enhancement",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 2745
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cancel",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 2759
+        }
+      },
+      {
+        "comment": "",
+        "key": "Skip Silence",
+        "location": {
+          "startingColumn": 200,
+          "startingLine": 2782
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enhance Recording",
+        "location": {
+          "startingColumn": 244,
+          "startingLine": 2782
+        }
+      },
+      {
+        "comment": "",
+        "key": "Playback Speed",
+        "location": {
+          "startingColumn": 65,
+          "startingLine": 2782
+        }
+      },
+      {
+        "comment": "",
+        "key": "Options",
+        "location": {
+          "startingColumn": 307,
+          "startingLine": 2782
+        }
+      },
+      {
+        "comment": "",
+        "key": "Done",
+        "location": {
+          "startingColumn": 339,
+          "startingLine": 2782
+        }
+      },
+      {
+        "comment": "",
+        "key": "New Recording",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 2793
+        }
+      },
+      {
+        "comment": "",
+        "key": "Create a recording to start analysis.",
+        "location": {
+          "startingColumn": 120,
+          "startingLine": 2871
+        }
+      },
+      {
+        "comment": "",
+        "key": "No Recordings",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 2871
+        }
+      },
+      {
+        "comment": "",
+        "key": "Analysis",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 2850
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tab",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 2851
+        }
+      },
+      {
+        "comment": "",
+        "key": "Source guide",
+        "location": {
+          "startingColumn": 84,
+          "startingLine": 2907
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 2908
+        }
+      },
+      {
+        "comment": "",
+        "key": "My Folders",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 2931
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 2969
+        }
+      },
+      {
+        "comment": "",
+        "key": "\"%@\"",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 3010
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ • %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 3001
+        }
+      },
+      {
+        "comment": "",
+        "key": "View Source",
+        "location": {
+          "startingColumn": 66,
+          "startingLine": 3026
+        }
+      },
+      {
+        "comment": "",
+        "key": "Play Audio",
+        "location": {
+          "startingColumn": 67,
+          "startingLine": 3037
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ask about selected recordings",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 3172
+        }
+      },
+      {
+        "comment": "",
+        "key": "Summarize these recordings",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 3174
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ask AI...",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 3217
+        }
+      },
+      {
+        "comment": "",
+        "key": "Name",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 3303
+        }
+      },
+      {
+        "comment": "",
+        "key": "Share",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 3331
+        }
+      },
+      {
+        "comment": "",
+        "key": "Rename",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 3332
+        }
+      },
+      {
+        "comment": "",
+        "key": "View Transcript",
+        "location": {
+          "startingColumn": 56,
+          "startingLine": 3333
+        }
+      },
+      {
+        "comment": "",
+        "key": "Move",
+        "location": {
+          "startingColumn": 56,
+          "startingLine": 3334
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unfavorite",
+        "location": {
+          "startingColumn": 58,
+          "startingLine": 3336
+        }
+      },
+      {
+        "comment": "",
+        "key": "Favorite",
+        "location": {
+          "startingColumn": 73,
+          "startingLine": 3336
+        }
+      },
+      {
+        "comment": "",
+        "key": "Delete",
+        "location": {
+          "startingColumn": 78,
+          "startingLine": 3339
+        }
+      },
+      {
+        "comment": "",
+        "key": "No Transcript",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 3406
+        }
+      },
+      {
+        "comment": "",
+        "key": "Queued",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 3380
+        }
+      },
+      {
+        "comment": "",
+        "key": "Processing",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 3396
+        }
+      }
+    ]
+  },
+  "version": 1
+}
